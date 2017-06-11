@@ -4,4 +4,5 @@
 .idea
 out
 .gradle
+*.doc
 /build/
